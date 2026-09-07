@@ -177,6 +177,8 @@ During my internship, I gained hands-on experience with the **end-to-end data an
 * Created DAX measures and effective data visualizations.
 * Published reports to **Power BI Service** and worked with report sharing.
 
+🔗  **[View Certificate](https://drive.google.com/file/d/1gcDQaPjgra0MU8T66Nc5BB2k19p50i7G/view?usp=sharing)**
+
 ---
 
 ## 🏆 Certifications & Achievements
