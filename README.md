@@ -94,6 +94,8 @@ Dashboard Development
 Insight Generation
       ↓
 Reporting & Presentation
+      ↓
+Publishing & Sharing
 ```
 
 ---
@@ -112,6 +114,21 @@ Analyzed customer demographics, purchasing patterns, product categories, subscri
 🔹 Identified customer segments and purchasing trends
 
 🔗 **[View Project](https://github.com/Akashsajwan/Customer_Shopping_Behavior_Dashboard)**
+
+---
+---
+### 🛵 Blinkit Sales Dashboard
+
+**Power BI | DAX | Power Query**
+
+Created an interactive sales dashboard to analyze Blinkit sales and product performance.
+
+🔹 Transformed sales data using Power Query
+🔹 Developed KPI-driven Power BI visualizations
+🔹 Analyzed sales and product performance trends
+🔹 Generated actionable business insights
+
+ **[View Project](https://github.com/Akashsajwan/Blinkit-Sales-Dashboard)**
 
 ---
 
@@ -143,19 +160,6 @@ Built an end-to-end sales analytics solution covering data cleaning, EDA, SQL an
 🔹 Generated business recommendations based on analytical findings
 
 🔗 **[View Project](https://github.com/Akashsajwan/Sales-Dashboard)**
-
----
-
-### 🛵 Blinkit Sales Dashboard
-
-**Power BI | DAX | Power Query**
-
-Created an interactive sales dashboard to analyze Blinkit sales and product performance.
-
-🔹 Transformed sales data using Power Query
-🔹 Developed KPI-driven Power BI visualizations
-🔹 Analyzed sales and product performance trends
-🔹 Generated actionable business insights
 
 ---
 
