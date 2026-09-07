@@ -128,7 +128,7 @@ Created an interactive sales dashboard to analyze Blinkit sales and product perf
 🔹 Analyzed sales and product performance trends
 🔹 Generated actionable business insights
 
- **[View Project](https://github.com/Akashsajwan/Blinkit-Sales-Dashboard)**
+🔗 **[View Project](https://github.com/Akashsajwan/Blinkit-Sales-Dashboard)**
 
 ---
 
