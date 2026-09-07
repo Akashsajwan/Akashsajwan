@@ -188,14 +188,15 @@ During my internship, I gained hands-on experience with the **end-to-end data an
 * Completed a Data Analytics job simulation.
 * Created a data dashboard using Power BI.
 * Used Excel to classify data and draw business conclusions.
+🔗  **[View Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69037ffd0577c96de00596a3_1761935129243_completion_certificate.pdf)**
 
 ### TCS iON
 
 Completed virtual experience programs in:
 
-* Soft Skills
-* Interview Skills
-* Communication Skills
+**[🔗](https://drive.google.com/file/d/1akcEAfRF8ZpFFb-GiY483V0ZZVtBB_OI/view?usp=drivesdk)** * Soft Skills
+**[🔗](https://drive.google.com/file/d/12kdWdpDh5D68d5Otr8tsJQ2F8kTb7ACq/view?usp=drivesdk)** * Interview Skills 
+**[🔗](https://drive.google.com/file/d/12JSNYNMgk6DWfpwPJWRaQhTJsVhdg7zR/view?usp=drivesdk)** * Communication Skills 
 
 ---
 
